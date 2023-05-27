@@ -26,7 +26,7 @@ const Header = () => {
                     <Not />
                     <Profile></Profile>
                     <div>
-                        <Big>Peter Oti</Big>
+                        <Big>Valerian Pedro</Big>
                         <Small>Admin</Small>
                     </div>
                     <DarkMode/>

@@ -1,4 +1,5 @@
 
+import Footer from './Footer'
 import Header from './Header'
 import Sider from './Sider'
 import { Outlet } from 'react-router-dom'
@@ -11,6 +12,7 @@ const AdminLayout = () => {
             <Container>
                 <Header />
                 <Outlet />
+                <Footer/>
             </Container>
         </Main>
     )
